@@ -1,19 +1,17 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=180&section=header&text=Akash%20Mondal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=System%20Engineer%20%E2%86%92%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=16" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:0EA5E9&height=180&section=header&text=Akash%20Mondal&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=System%20Engineer%20%E2%86%92%20DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=16" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/akashnvf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=System+Engineer+%E2%86%92+DevOps+Engineer;Linux+%7C+Cloud+%7C+Automation;Building+reliable+infrastructure;Open+to+DevOps+%26+Cloud+roles" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=System+Engineer+%E2%86%92+DevOps+Engineer;Linux+%7C+Cloud+%7C+Automation;Building+reliable+infrastructure;Open+to+DevOps+%26+Cloud+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akashnvf&style=flat-square&color=0EA5E9" alt="Profile views" />
-  <a href="mailto:akash.nvf@gmail.com"><img src="https://img.shields.io/badge/Email-akash.nvf%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/akashnvf"><img src="https://img.shields.io/badge/GitHub-akashnvf-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-EF4444?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="mailto:akash.nvf@gmail.com"><img src="https://img.shields.io/badge/Email-akash.nvf%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/akashnvf"><img src="https://img.shields.io/badge/GitHub-akashnvf-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-EF4444?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -69,22 +67,20 @@ Currently transitioning into **DevOps & Cloud Engineering** — focusing on auto
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-> **Note:** Currently focused on building deep, practical skills in cloud & DevOps tools through hands-on labs and projects.
-
 ---
 
 ### 🚀 Currently Learning
 
-| Technology       | Focus Areas                                      |
-|------------------|--------------------------------------------------|
-| **AWS**          | EC2, VPC, IAM, S3, Load Balancers, Auto Scaling  |
-| **Microsoft Azure** | Entra ID, RBAC, VNets, VMs, Azure CLI         |
-| **Docker**       | Images, Containers, Dockerfiles, Volumes, Networking |
-| **Kubernetes**   | Pods, Deployments, Services, ConfigMaps, Secrets |
-| **Terraform**    | Providers, Resources, Variables, State, Modules  |
-| **Jenkins**      | CI/CD pipelines & automated builds               |
-| **Ansible**      | Configuration management & automation            |
-| **Monitoring**   | Prometheus, Grafana, logs & system metrics       |
+| Technology          | Focus Areas                                      |
+|---------------------|--------------------------------------------------|
+| **AWS**             | EC2, VPC, IAM, S3, Load Balancers, Auto Scaling  |
+| **Microsoft Azure** | Entra ID, RBAC, VNets, VMs, Azure CLI            |
+| **Docker**          | Images, Containers, Dockerfiles, Volumes, Networking |
+| **Kubernetes**      | Pods, Deployments, Services, ConfigMaps, Secrets |
+| **Terraform**       | Providers, Resources, Variables, State, Modules  |
+| **Jenkins**         | CI/CD pipelines & automated builds               |
+| **Ansible**         | Configuration management & automation            |
+| **Monitoring**      | Prometheus, Grafana, logs & system metrics       |
 
 ---
 
@@ -123,12 +119,12 @@ I use GitHub to document learning, practice infrastructure automation, and track
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashnvf&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnvf&layout=compact&hide_border=true&theme=radical" height="165" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akashnvf&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnvf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashnvf&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=akashnvf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -157,5 +153,5 @@ I'm always happy to connect with fellow engineers, DevOps professionals, cloud e
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=FFFFFF&animation=fadeIn" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E40AF,100:0F172A&height=120&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=24&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="Footer" />
 </p>
