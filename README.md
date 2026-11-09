@@ -13,78 +13,124 @@ I've spent my career working with production environments, maintaining system av
 
 Now I'm taking the next step in my career — moving towards DevOps & Cloud Engineering.
 
-I'm focused on building practical skills in cloud infrastructure, Infrastructure as Code, containerization, CI/CD, and automation.
+I believe in continuous learning, practical implementation, and sharing knowledge with the technical community.
 
-My approach: Learn it. Build it. Break it. Fix it. Automate it.
+- 🖥️ Experienced in Linux/Unix administration and enterprise infrastructure support.
+- 🔧 Interested in automation, troubleshooting, and infrastructure optimization.
+- ☁️ Learning AWS, Microsoft Azure, and cloud architecture.
+- 🐳 Building practical knowledge of Docker and Kubernetes.
+- ⚙️ Exploring Terraform, Ansible, CI/CD, and DevOps practices.
+- 📚 Continuously improving through hands-on labs and real-world projects.
+- 🎯 Goal: Grow into a DevOps / Cloud Engineer role.
 
-🧰 TECH STACK
+---
 
-Operating Systems & Infrastructure
+## 🛠️ Technical Skills
 
-!Linux !Unix !HPUX !Networking
+### Systems & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white)
+![HP--UX](https://img.shields.io/badge/HP--UX-0096D6?style=for-the-badge&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1679A7?style=for-the-badge&logo=cisco&logoColor=white)
 
-Cloud & Infrastructure as Code
+### Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-!AWS !Azure !Terraform
+### DevOps & Automation
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-Containers & DevOps
+### CI/CD, Scripting & Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-!Docker !Kubernetes !Jenkins !Ansible !Git
+> **Note:** My current focus is on developing practical, hands-on skills in cloud and DevOps tools. My experience level varies by technology.
 
-Scripting & Monitoring
+---
 
-!Bash !Python !Prometheus !Grafana
+## 🚀 What I'm Currently Learning
 
-☁️ CURRENTLY BUILDING MY DEVOPS SKILLS
-Technology	Hands-on Focus
-AWS	EC2, VPC, IAM, S3, Load Balancers
-Azure	VMs, VNets, RBAC, Entra ID, Azure CLI
-Terraform	IaC, State, Modules, Azure Backend
-Docker	Images, Containers, Networking
-Kubernetes	Pods, Deployments, Services
-Jenkins	CI/CD Pipelines
-Ansible	Configuration Management
-Linux	Administration & Bash Scripting
-Monitoring	Prometheus & Grafana
-💼 PROFESSIONAL EXPERIENCE
+| Technology | Learning Focus |
+|---|---|
+| AWS | EC2, VPC, IAM, S3, Load Balancers, Auto Scaling |
+| Microsoft Azure | Entra ID, RBAC, VNets, Virtual Machines, Azure CLI |
+| Git & GitHub | Branching, merging, pull requests, Git workflows |
+| Docker | Images, containers, Dockerfiles, volumes, networking |
+| Kubernetes | Pods, Deployments, Services, ConfigMaps, Secrets |
+| Terraform | Providers, resources, variables, state, modules |
+| Jenkins | CI/CD pipelines and automated builds |
+| Ansible | Configuration management and automation |
+| Linux & Bash | System administration, shell scripting, automation |
+| Monitoring | Prometheus, Grafana, logs, and system metrics |
 
-System Engineer | 5 Years
+---
 
-Enterprise Linux/Unix administration.
-Production monitoring and troubleshooting.
-Infrastructure and server management.
-Telecom technologies: IMS, VoLTE, SIP & VoIP.
-Incident management and service availability.
-Application, hardware and database monitoring.
+## 💼 Professional Background
 
-What I'm bringing into DevOps: Real production support experience, troubleshooting mindset, infrastructure knowledge, and a passion for automation.
+**System Engineer | IT Infrastructure & Production Support**
 
-🚀 MY LABS & PROJECTS
+My professional experience includes:
 
-I use this GitHub to document real implementations, experiments, and hands-on learning.
+- Enterprise Linux/Unix system administration and support.
+- Production monitoring, incident investigation, and troubleshooting.
+- Telecom core network technologies, including IMS, VoLTE, SIP, and VoIP.
+- Application, hardware, and database monitoring.
+- Backup and recovery operations and infrastructure maintenance.
+- Working with enterprise server, storage, and network environments.
+- Coordinating technical activities and supporting service availability.
 
-🏗️ Terraform — Infrastructure as Code & Remote State.
-🔷 Azure — Cloud infrastructure and networking.
-☁️ AWS — Compute, networking and storage.
-🐳 Docker — Containerization and application deployment.
-🔄 Jenkins — CI/CD automation.
-🐧 Linux — Administration and Bash automation.
+I am building on this foundation to apply DevOps principles and automation to modern infrastructure environments.
 
-Check my repositories for code, configurations, and project documentation.
+---
 
-📊 GITHUB ACTIVITY
+## 🧪 Hands-On Labs & Projects
 
-!GitHub Stats
+I use GitHub to document my learning, maintain code, and practice infrastructure automation.
 
-!Top Languages
+- 🐧 **Linux Administration:** Commands, troubleshooting, permissions, services, and shell scripting.
+- 🌿 **Git & GitHub Practice:** Repositories, branches, commits, merges, and collaboration workflows.
+- 🐳 **Docker Labs:** Container lifecycle, Dockerfiles, persistent storage, and container networking.
+- ☁️ **AWS Labs:** EC2, VPC, security groups, S3, and infrastructure deployment.
+- 🔷 **Azure Labs:** Resource groups, networking, identity, access control, and CLI operations.
+- 🏗️ **Terraform Labs:** Infrastructure as Code and repeatable cloud provisioning.
+- 🔄 **DevOps Projects:** Working toward integrated CI/CD and container deployment workflows.
 
-🎯 THE NEXT MILESTONE
+Explore my repositories for practical exercises, configuration examples, and learning progress.
 
-My goal is to become a skilled DevOps / Cloud Engineer, combining 5 years of infrastructure experience with modern cloud technologies and automation practices.
+---
 
-"Don't just manage infrastructure. Automate it. Improve it. Scale it."
-🤝 LET'S CONNECT
+## 📊 GitHub Statistics
 
-📧 Email   |   💻 GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashnvf&show_icons=true&hide_border=true&theme=github_dark)
 
-Thanks for stopping by! Happy Building 🚀
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akashnvf&layout=compact&hide_border=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=akashnvf&theme=github-dark-blue&hide_border=true)
+
+---
+
+## 🌱 My Philosophy
+
+> "Strong infrastructure fundamentals, continuous learning, and automation are the foundation of reliable technology."
+
+I am passionate about learning new technologies, solving technical problems, automating repetitive tasks, and growing alongside the evolving cloud and DevOps ecosystem.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow engineers, DevOps professionals, cloud enthusiasts, and learners who enjoy sharing knowledge.
+
+📧 **Email:** [akash.nvf@gmail.com](mailto:akash.nvf@gmail.com)  
+💻 **GitHub:** [github.com/akashnvf](https://github.com/akashnvf)
+
+**Thanks for visiting my profile! ⭐**
+
