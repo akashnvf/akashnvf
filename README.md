@@ -1,7 +1,9 @@
-AKASH MONDAL
+<p align="center">
+<h1 align="center">✦ AKASH MONDAL ✦</h1>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=System+Engineer+%7C+5+Years+Experience;Linux+%7C+Unix+%7C+Infrastructure;Exploring+AWS+%26+Microsoft+Azure;Docker+%7C+Kubernetes+%7C+Terraform;Building+My+Journey+Towards+DevOps+Engineering" alt="Professional Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=System+Engineer+%7C+5+Years+Experience;Linux+%7C+Unix+%7C+Infrastructure;Exploring+AWS+%26+Microsoft+Azure;Docker+%7C+Kubernetes+%7C+Terraform;Building+My+Journey+Towards+DevOps+Engineering" alt="Typing Animation"/>
 </p>
 
 <p align="center">
