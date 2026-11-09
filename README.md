@@ -1,35 +1,36 @@
-👋 Hi, I'm Akash Mondal
+AKASH MONDAL
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:0EA5E9&height=200&section=header&text=AKASH%20MONDAL&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=System%20Engineer%20%7C%20Aspiring%20DevOps%20%26%20Cloud%20Engineer&descAlignY=60&descSize=16" width="100%" alt="Akash Mondal GitHub Header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=System+Engineer+%7C+5+Years+Experience;Linux+%7C+Unix+%7C+Infrastructure;Exploring+AWS+%26+Microsoft+Azure;Docker+%7C+Kubernetes+%7C+Terraform;Building+My+Journey+Towards+DevOps+Engineering" alt="Professional Typing Animation"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Linux+%7C+Unix+%7C+Infrastructure;Exploring+AWS+%26+Azure;Docker+%7C+Kubernetes+%7C+Terraform;Learning+DevOps+by+Building+Projects;Automating+Infrastructure+%26+Workflows" alt="Typing Animation"/>
+<img src="https://komarev.com/ghpvc/?username=akashnvf&style=flat-square&color=0EA5E9" alt="Profile Views"/>
+<a href="mailto:akash.nvf@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/akashnvf">
+<img src="https://img.shields.io/badge/GitHub-akashnvf-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-0EA5E9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
-<p align="center">
-<a href="mailto:akash.nvf@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/akashnvf"><img src="https://img.shields.io/badge/GitHub-akashnvf-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
-
-🚀 About Me
+👨‍💻 About Me
 
 I'm Akash Mondal, a System Engineer with 5 years of hands-on experience in enterprise IT infrastructure, Linux/Unix administration, production support, and troubleshooting.
 
-My experience includes maintaining production environments, investigating incidents, monitoring critical systems, and supporting enterprise infrastructure.
+I specialize in maintaining reliable production environments, investigating incidents, monitoring critical systems, and supporting enterprise infrastructure.
 
-Currently, I'm transitioning towards DevOps & Cloud Engineering, building practical skills in cloud platforms, automation, Infrastructure as Code, containerization, and CI/CD.
+Currently transitioning into DevOps & Cloud Engineering, focusing on automation, cloud infrastructure, Infrastructure as Code, containerization, and CI/CD practices.
 
-🖥️ 5 years of IT infrastructure and production support experience.
+🖥️ 5 years of enterprise IT infrastructure experience.
 🐧 Linux/Unix system administration and troubleshooting.
+🔧 Production support, incident management, and monitoring.
 ☁️ Learning AWS and Microsoft Azure.
 🐳 Exploring Docker and Kubernetes.
-🏗️ Practicing Terraform and Ansible automation.
-🔄 Learning CI/CD using Jenkins and GitHub.
+🏗️ Practicing Terraform and Ansible.
 🎯 Career Goal: DevOps Engineer / Cloud Engineer.
-Strong infrastructure fundamentals + Automation + Cloud = Reliable Engineering.
+Strong Infrastructure Fundamentals + Automation + Cloud = Reliable Engineering.
 🛠️ Technical Skills
 🖥️ Systems & Infrastructure
 
@@ -45,7 +46,7 @@ Strong infrastructure fundamentals + Automation + Cloud = Reliable Engineering.
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/>
 </p>
 
 ⚙️ DevOps & Automation
@@ -69,83 +70,95 @@ Strong infrastructure fundamentals + Automation + Cloud = Reliable Engineering.
 </p>
 
 📚 Currently Learning
-Technology	Learning Focus
-AWS	EC2, VPC, IAM, S3, ELB, Auto Scaling
-Azure	Entra ID, RBAC, VNets, Virtual Machines
-Docker	Images, Containers, Volumes, Networking
-Kubernetes	Pods, Deployments, Services, ConfigMaps
+Technology	Focus Areas
+AWS	EC2, VPC, IAM, S3, Load Balancers, Auto Scaling
+Microsoft Azure	Entra ID, RBAC, VNets, Virtual Machines, Azure CLI
+Docker	Images, Containers, Dockerfiles, Volumes, Networking
+Kubernetes	Pods, Deployments, Services, ConfigMaps, Secrets
 Terraform	Providers, Resources, Variables, State, Modules
 Jenkins	CI/CD Pipelines and Automated Builds
 Ansible	Configuration Management and Automation
-Monitoring	Prometheus, Grafana, Logs and Metrics
+Monitoring	Prometheus, Grafana, Logs and System Metrics
 💼 Professional Experience
 System Engineer | IT Infrastructure & Production Support
 
 Experience: 5 Years
 
-Enterprise Linux/Unix administration and production support.
-Production monitoring, incident management, and troubleshooting.
+Enterprise Linux/Unix system administration and production support.
+Production monitoring, incident investigation, and troubleshooting.
 Experience with Telecom Core Network technologies: IMS, VoLTE, SIP, and VoIP.
 Application, hardware, and database monitoring.
-Backup, recovery, and infrastructure maintenance.
+Backup, recovery operations, and infrastructure maintenance.
 Supporting enterprise server, storage, and network environments.
-Maintaining service availability and coordinating technical operations.
+Maintaining service availability and coordinating technical activities.
 
-My next step: Applying infrastructure engineering experience to cloud platforms, automation, and modern DevOps practices.
+Career Direction: Building on my infrastructure experience to implement DevOps practices, cloud technologies, and automation.
 
-🧪 Hands-on Labs & Projects
+🚀 Hands-on Labs & Projects
 
-I believe in learning by doing. I use GitHub to document my technical learning and build practical infrastructure projects.
+I believe in learning by doing. I use GitHub to document technical learning, practice automation, and build practical infrastructure projects.
 
 Area	Practical Work
-🐧 Linux	Administration, permissions, services, troubleshooting, shell scripting
-🌿 Git & GitHub	Branching, merging, repositories, collaboration
-🐳 Docker	Dockerfiles, containers, volumes, networking
-☁️ AWS	EC2, VPC, Security Groups, S3
-🔷 Azure	Resource Groups, VNets, Identity, Azure CLI
-🏗️ Terraform	Infrastructure as Code and provisioning
-🔄 CI/CD	Jenkins pipelines and automated workflows
+🐧 Linux Administration	Commands, permissions, services, troubleshooting, shell scripting
+🌿 Git & GitHub	Repositories, branching, merging, collaboration workflows
+🐳 Docker Labs	Container lifecycle, Dockerfiles, volumes, networking
+☁️ AWS Labs	EC2, VPC, Security Groups, S3
+🔷 Azure Labs	Resource Groups, Networking, Identity, CLI
+🏗️ Terraform Labs	Infrastructure as Code and repeatable provisioning
+🔄 DevOps Projects	CI/CD and container automation workflows
 
-🔗 Explore my repositories: github.com/akashnvf
+<p align="center">
+<a href="https://github.com/akashnvf?tab=repositories">
+<img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+</a>
+</p>
 
 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akashnvf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnvf&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=akashnvf&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Contribution Streak"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=akashnvf&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
+<i>Learning consistently, building projects, and improving every day.</i>
 </p>
 
-🎯 My Career Focus
+🎯 Career Focus
 
-I'm actively developing my skills in:
+Currently working towards becoming a skilled DevOps / Cloud Engineer.
 
-Cloud Infrastructure – AWS & Azure
-Containerization – Docker & Kubernetes
-Infrastructure as Code – Terraform
-Configuration Management – Ansible
-CI/CD – Jenkins & GitHub Actions
-Monitoring – Prometheus & Grafana
-Linux Administration & Automation
+My learning priorities:
 
-Open to opportunities: DevOps Engineer | Cloud Engineer | Linux System Engineer | Infrastructure Engineer
+☁️ Cloud Infrastructure – AWS & Azure
+🐳 Containerization – Docker & Kubernetes
+🏗️ Infrastructure as Code – Terraform
+⚙️ Configuration Management – Ansible
+🔄 CI/CD – Jenkins & GitHub Actions
+📈 Monitoring – Prometheus & Grafana
+🐧 Linux Administration & Automation
+
+Open to opportunities:
+
+DevOps Engineer | Cloud Engineer | Linux System Engineer | Infrastructure Engineer
+
+🌱 My Philosophy
+Strong infrastructure fundamentals, continuous learning, and automation are the foundation of reliable technology.
+
+I enjoy solving technical problems, automating repetitive tasks, learning new technologies, and building reliable systems.
 
 🤝 Let's Connect
 
-I'm always happy to connect with engineers, DevOps professionals, cloud enthusiasts, and technology learners.
+I'm always happy to connect with fellow engineers, DevOps professionals, cloud enthusiasts, and technology learners.
 
 <p align="center">
-<a href="mailto:akash.nvf@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/akashnvf"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:akash.nvf@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/akashnvf">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 </p>
 
 <p align="center">
-<i>"Learn continuously. Automate intelligently. Build reliably."</i>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E40AF,100:0F172A&height=120&section=footer&text=Thanks%20for%20Visiting!%20⭐&fontSize=24&fontColor=FFFFFF" width="100%" alt="Footer"/>
+<strong>Learn Continuously. Automate Intelligently. Build Reliably.</strong>
 </p>
